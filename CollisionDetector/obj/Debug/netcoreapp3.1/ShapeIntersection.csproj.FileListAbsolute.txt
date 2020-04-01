@@ -1,0 +1,11 @@
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\bin\Debug\netcoreapp3.1\ShapeIntersection.exe
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\bin\Debug\netcoreapp3.1\ShapeIntersection.deps.json
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\bin\Debug\netcoreapp3.1\ShapeIntersection.runtimeconfig.json
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\bin\Debug\netcoreapp3.1\ShapeIntersection.runtimeconfig.dev.json
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\bin\Debug\netcoreapp3.1\ShapeIntersection.dll
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\bin\Debug\netcoreapp3.1\ShapeIntersection.pdb
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\obj\Debug\netcoreapp3.1\ShapeIntersection.csprojAssemblyReference.cache
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\obj\Debug\netcoreapp3.1\ShapeIntersection.AssemblyInfoInputs.cache
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\obj\Debug\netcoreapp3.1\ShapeIntersection.AssemblyInfo.cs
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\obj\Debug\netcoreapp3.1\ShapeIntersection.dll
+C:\Users\arrtt\Desktop\Arth\Coding\PolygonsOverlap\ShapeIntersection\obj\Debug\netcoreapp3.1\ShapeIntersection.pdb
