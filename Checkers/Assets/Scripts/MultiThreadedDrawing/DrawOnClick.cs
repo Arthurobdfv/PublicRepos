@@ -8,6 +8,11 @@ using UnityEngine;
 using UnityEngine.Experimental.Rendering;
 using Debug = UnityEngine.Debug;
 
+/// <summary>
+/// I STRONGLY ADVISE YOU TO TAKE A LOOK INTO THE README FILE TO UNDERSTAND A BIT THE INTENT OF THIS SCRIPT AS THIS DOES NOT CONTAIN THE FULL FEATURE IMPLEMENTATION, some important
+/// parts are missing :)
+/// </summary>
+
 public class DrawOnClick : MonoBehaviour
 {
     [SerializeField,Range(0,1)] float HeightScale = 0.01f;
@@ -21,7 +26,6 @@ public class DrawOnClick : MonoBehaviour
     private int _normalHeightId;
     private Camera cam;
     [SerializeField] private ParticleSystemCurveMode _curve;
-    // Start is called before the first frame update
     void Start()
     {
         cam = Camera.main;
@@ -39,7 +43,6 @@ public class DrawOnClick : MonoBehaviour
     
     }
 
-    // Update is called once per frame
     void Update()
     {
         _currentMaterial.SetFloat(_normalHeightId, HeightScale);
